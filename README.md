@@ -1,6 +1,6 @@
 # DSA Basics in C
 
-This Repository contains implementation of following **Data Structures** (with all operations on them) and some of their uses.
+This Repository contains implementation of the following basic **Data Structures** (with all operations on them) along with some of their common uses.
 * Stacks
 * Queues
 * Singly Linked Lists
